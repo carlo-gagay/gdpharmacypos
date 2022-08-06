@@ -1,0 +1,9 @@
+com/simplesoft/connections/Database.class
+com/simplesoft/App.class
+module-info.class
+com/simplesoft/connections/Driver.class
+com/simplesoft/interfaces/Migration.class
+com/simplesoft/app/controllers/views/SecondaryController.class
+com/simplesoft/interfaces/Controller.class
+com/simplesoft/migrations/create_users_table.class
+com/simplesoft/app/controllers/views/PrimaryController.class
